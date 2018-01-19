@@ -1,0 +1,10 @@
+__pycache__
+*.ui~
+*.db
+.vscode
+.pylinrc
+reports/*
+dist/*
+build/*
+*.egg-info
+.coverage
